@@ -1,6 +1,6 @@
-# Hosting a Full-Stack Application
+# Udacity Full-Stack Application hosting (Udagram)
 
-### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
+### **This is an application created by Udacity for nanodegree third project.**
 
 ---
 
