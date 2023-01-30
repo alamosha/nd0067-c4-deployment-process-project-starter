@@ -17,7 +17,7 @@ Udagram is provided bu Udacity as an alternative starter project. The udagram ap
 
 ### **Screenshots**
 
-All requested screenshots included into this repo under `screenshots/` directory.
+All requested screenshots included into this repo under `screenshots` directory.
 You can preview some of them hereunder, click on below links to view:
 
 - [CircleCI first build step.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/CircleCI-1.Build.jpg)
