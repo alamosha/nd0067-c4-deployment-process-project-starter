@@ -1,11 +1,11 @@
 # Udacity Full-Stack Application hosting (Udagram)
 
 
-# Project overview
+### **Project overview**
 
 Udagram is provided bu Udacity as an alternative starter project. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-### Dependencies
+### **Dependencies**
 
 ```
 - Node v14.15.1 (LTS)
@@ -15,9 +15,10 @@ Udagram is provided bu Udacity as an alternative starter project. The udagram ap
 - A S3 bucket for hosting uploaded pictures.
 ```
 
-### Screenshots
+### **Screenshots**
 
-Screenshots uploaded to S# bucket. Click on below links to view:
+All requested screenshots included into this repo under `screenshots/` directory.
+You can preview some of them hereunder, click on below links to view:
 
 - [CircleCI first build step.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/CircleCI-1.Build.jpg)
 - [CircleCI second build step.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/CircleCI-2.Deploy.jpg)
@@ -25,16 +26,6 @@ Screenshots uploaded to S# bucket. Click on below links to view:
 - [RDS Overview.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/RDS-Overview.jpg)
 - [S3 Bucket Overview.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/S3.jpg)
 - [Elastic Beanstalk Overview.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/EB.jpg)
-
-### Installation
-
-Provision the necessary AWS services needed for running the application:
-
-1. In AWS, provision a publicly available RDS database running Postgres. <Place holder for link to classroom article>
-1. In AWS, provision a s3 bucket for hosting the uploaded files. <Place holder for tlink to classroom article>
-1. Export the ENV variables needed or use a package like [dotnev](https://www.npmjs.com/package/dotenv)/.
-1. From the root of the repo, navigate udagram-api folder `cd starter/udagram-api` to install the node_modules `npm install`. After installation is done start the api in dev mode with `npm run dev`.
-1. Without closing the terminal in step 1, navigate to the udagram-frontend `cd starter/udagram-frontend` to intall the node_modules `npm install`. After installation is done start the api in dev mode with `npm run start`.
 
 ## Testing
 
