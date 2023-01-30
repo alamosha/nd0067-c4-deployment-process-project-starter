@@ -26,12 +26,6 @@ Screenshots uploaded to S# bucket. Click on below links to view:
 - [S3 Bucket Overview.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/S3.jpg)
 - [Elastic Beanstalk Overview.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/EB.jpg)
 
-
-
-```
-
-```
-
 ### Installation
 
 Provision the necessary AWS services needed for running the application:
