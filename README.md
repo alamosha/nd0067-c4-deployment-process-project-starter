@@ -27,6 +27,10 @@ You can preview some of them hereunder, click on below links to view:
 - [S3 Bucket Overview.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/S3.jpg)
 - [Elastic Beanstalk Overview.](http://zabuck012999.s3-website-us-east-1.amazonaws.com/screenshots/EB.jpg)
 
+## Hosted production application
+
+You can navigate to this application through this URL [Udagram](http://zabuck012999.s3-website-us-east-1.amazonaws.com)
+
 ## Testing
 
 This project contains two different test suite: unit tests and End-To-End tests(e2e). Follow these steps to run the tests.
