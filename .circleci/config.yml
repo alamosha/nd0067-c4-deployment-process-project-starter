@@ -65,6 +65,10 @@ workflows:
   udagram:
     jobs:
       - build
+      - build_server_pdfs:
+          filters:
+            branches:
+              only: master
       - deploy:
           requires:
             - build
