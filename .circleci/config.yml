@@ -64,8 +64,7 @@ jobs:
 workflows:
   udagram:
     jobs:
-      - build
-      - build_server_pdfs:
+      - build:
           filters:
             branches:
               only: master
